@@ -1,0 +1,104 @@
+{
+  "artists": [
+    {
+      "id": "ryo_fukui",
+      "name": "Ryo Fukui",
+      "profilePicture": "/assets/ryo.jpg",
+      "monthlyListeners": 950000,
+      "listenersOverTime": {
+        "Mar 25": 870000, "Apr 25": 875000, "May 25": 880000, "Jun 25": 882000, "Jul 25": 885000, "Aug 25": 890000, "Sep 25": 895000, "Oct 25": 900000, "Nov 25": 910000, "Dec 25": 920000, "Jan 26": 925000, "Feb 26": 930000, "Mar 26": 935000, "Apr 26": 940000, "May 26": 945000, "Jun 26": 950000
+      },
+      "releasesOverTime": {
+        "2016": 1, "2017": 0, "2018": 0, "2019": 0, "2020": 0, "2021": 0, "2022": 0, "2023": 0, "2024": 0, "2025": 0, "2026": 0
+      },
+      "popularSongs": [
+        { "title": "It Could Happen To You", "coverUrl": "/assets/scenery.jpg" },
+        { "title": "Early Summer", "coverUrl": "/assets/scenery.jpg" }
+      ],
+      "about": {
+        "en": "Ryo Fukui was a Japanese jazz pianist based in Sapporo. He is renowned internationally for his self-taught, expressive playing style, particularly on his 1976 debut album 'Scenery'.",
+        "fr": "Ryo Fukui était un pianiste de jazz japonais basé à Sapporo. Il est reconnu internationalement pour son style de jeu expressif et autodidacte, notamment sur son premier album 'Scenery' de 1976."
+      }
+    },
+    {
+      "id": "enrico_rava",
+      "name": "Enrico Rava",
+      "profilePicture": "/assets/rava.jpg",
+      "monthlyListeners": 250000,
+      "listenersOverTime": {
+        "Mar 25": 210000, "Apr 25": 215000, "May 25": 218000, "Jun 25": 220000, "Jul 25": 222000, "Aug 25": 225000, "Sep 25": 230000, "Oct 25": 232000, "Nov 25": 235000, "Dec 25": 238000, "Jan 26": 240000, "Feb 26": 242000, "Mar 26": 245000, "Apr 26": 246000, "May 26": 248000, "Jun 26": 250000
+      },
+      "releasesOverTime": {
+        "2019": 10, "2020": 0, "2021": 6, "2022": 8, "2023": 0, "2024": 0, "2025": 4, "2026": 0
+      },
+      "popularSongs": [
+        { "title": "L'Opera Va", "coverUrl": "/assets/opera.jpg" },
+        { "title": "The Pilgrim and the Stars", "coverUrl": "/assets/pilgrim.jpg" }
+      ],
+      "about": {
+        "en": "Enrico Rava is an Italian jazz trumpeter. He is considered one of the most prominent ambassadors of Italian jazz, known for his warm tone and lyrical approach.",
+        "fr": "Enrico Rava est un trompettiste de jazz italien. Il est considéré comme l'un des ambassadeurs les plus éminents du jazz italien, reconnu pour son ton chaleureux et son approche lyrique."
+      }
+    },
+    {
+      "id": "lil_ugly_mane",
+      "name": "Lil Ugly Mane",
+      "profilePicture": "/assets/ugly.jpg",
+      "monthlyListeners": 800000,
+      "listenersOverTime": {
+        "Mar 25": 710000, "Apr 25": 720000, "May 25": 725000, "Jun 25": 730000, "Jul 25": 740000, "Aug 25": 745000, "Sep 25": 750000, "Oct 25": 755000, "Nov 25": 765000, "Dec 25": 770000, "Jan 26": 775000, "Feb 26": 780000, "Mar 26": 785000, "Apr 26": 790000, "May 26": 795000, "Jun 26": 800000
+      },
+      "releasesOverTime": {
+        "2019": 2, "2020": 0, "2021": 19, "2022": 6, "2023": 2, "2024": 0, "2025": 1, "2026": 0
+      },
+      "popularSongs": [
+        { "title": "throw dem gunz", "coverUrl": "/assets/images.jpg" },
+        { "title": "benadryl submarine", "coverUrl": "/assets/Volcanic.jpg" }
+      ],
+      "about": {
+        "en": "Travis Miller, known professionally as Lil Ugly Mane, is an American musician and producer. His work spans experimental hip hop, Memphis rap, and lo-fi indie rock.",
+        "fr": "Travis Miller, connu professionnellement sous le nom de Lil Ugly Mane, est un musicien et producteur américain. Son travail couvre le hip-hop expérimental, le rap de Memphis et le rock indépendant lo-fi."
+      }
+    },
+    {
+      "id": "childish_gambino",
+      "name": "Childish Gambino",
+      "profilePicture": "/assets/glover.jpg",
+      "monthlyListeners": 33000000,
+      "listenersOverTime": {
+        "Mar 25": 25000000, "Apr 25": 25500000, "May 25": 26000000, "Jun 25": 26500000, "Jul 25": 27000000, "Aug 25": 27500000, "Sep 25": 28000000, "Oct 25": 28500000, "Nov 25": 29000000, "Dec 25": 29500000, "Jan 26": 30000000, "Feb 26": 30500000, "Mar 26": 31000000, "Apr 26": 31500000, "May 26": 32000000, "Jun 26": 33000000
+      },
+      "releasesOverTime": {
+        "2019": 0, "2020": 12, "2021": 0, "2022": 2, "2023": 3, "2024": 17, "2025": 1, "2026": 0
+      },
+      "popularSongs": [
+        { "title": "Redbone", "coverUrl": "/assets/redbone.jpg" },
+        { "title": "This Is America", "coverUrl": "/assets/america.jpg" }
+      ],
+      "about": {
+        "en": "Donald Glover, performing under the stage name Childish Gambino, is a multi-talented American rapper, singer, writer, and actor known for his innovative approach to music and storytelling.",
+        "fr": "Donald Glover, se produisant sous le nom de scène Childish Gambino, est un rappeur, chanteur, écrivain et acteur américain aux multiples talents, connu pour son approche innovante de la musique et de la narration."
+      }
+    },
+    {
+      "id": "jpegmafia",
+      "name": "JPEGMAFIA",
+      "profilePicture": "/assets/jpeg.jpg",
+      "monthlyListeners": 3500000,
+      "listenersOverTime": {
+        "Mar 25": 2800000, "Apr 25": 2850000, "May 25": 2900000, "Jun 25": 2950000, "Jul 25": 3000000, "Aug 25": 3050000, "Sep 25": 3100000, "Oct 25": 3150000, "Nov 25": 3200000, "Dec 25": 3250000, "Jan 26": 3300000, "Feb 26": 3350000, "Mar 26": 3400000, "Apr 26": 3450000, "May 26": 3480000, "Jun 26": 3500000
+      },
+      "releasesOverTime": {
+        "2019": 14, "2020": 4, "2021": 18, "2022": 4, "2023": 14, "2024": 14, "2025": 2, "2026": 1
+      },
+      "popularSongs": [
+        { "title": "1539 N. Calvert", "coverUrl": "/assets/calvert.jpg" },
+        { "title": "HAZARD DUTY PAY!", "coverUrl": "/assets/Hazard.jpg" }
+      ],
+      "about": {
+        "en": "Barrington DeVaughn Hendricks, known professionally as JPEGMAFIA, is an American rapper and producer celebrated for his boundary-pushing, experimental approach to hip hop.",
+        "fr": "Barrington DeVaughn Hendricks, connu professionnellement sous le nom de JPEGMAFIA, est un rappeur et producteur américain célèbre pour son approche expérimentale et novatrice du hip-hop."
+      }
+    }
+  ]
+}
