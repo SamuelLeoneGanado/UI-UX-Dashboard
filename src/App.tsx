@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   LineChart,
   Line,
@@ -55,7 +55,7 @@ export default function ArtistDashboard() {
 
   // Calculate dynamic range for releases (X-7 to X)
   const activeYears = Object.entries(artist.releasesOverTime)
-    .filter(([year, count]) => count > 0)
+    .filter(([_year, count]) => count > 0)
     .map(([year]) => parseInt(year));
 
   const maxYear =
